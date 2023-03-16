@@ -1,5 +1,3 @@
-torch==1.7.1
-torchvision==0.9.1
 pycuda
 tensorboard
 pyyaml
